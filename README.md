@@ -1,1 +1,1 @@
-# C157-Creating_thumbnails
+# c157-creating-thumbnails
